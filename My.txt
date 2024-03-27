@@ -1,7 +1,3 @@
 Questo file è stato creato..
 
-<<<<<<< HEAD
-File.
-=======
-file.
->>>>>>> main
+B
